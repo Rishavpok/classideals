@@ -1,0 +1,26 @@
+.news-title{
+    display: flex;
+    flex-direction: row;
+}
+.newsletter{
+    padding: 25px;
+    background-color: #fa9579;
+}
+.news-box{
+    margin-left: 100px;
+}
+#input-field{
+    height: 65px;
+    
+}
+.news-title h4{
+    color: white;
+}
+.btn-news{
+    background-color: #00303f;
+    color: white;
+    width: 155%;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  
+  }

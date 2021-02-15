@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #00303f !important ;
+}
+.nav-link{
+    color: white !important;
+    margin-left: 20px;  
+}
+.item{
+    color: white !important;
+}
+.btn{
+    background-color: #ff7b54;
+    color: white;
+}
+.input-box{
+    /* width: 80%; */
+}

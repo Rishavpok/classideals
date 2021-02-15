@@ -1,0 +1,63 @@
+.recent-deals{
+    background-color: #00303f ;
+    padding-bottom: 50px;
+}
+.view-details{
+    margin-top: 5px;
+    border-radius: 5px;
+    height: 40px;
+    width: 40%;
+    float: right;
+    background-color: #c19065;
+    text-align: center;
+    color: white; 
+    padding: 3px; 
+}
+.view-details:hover{
+    text-decoration: none;
+    color: white;
+}
+.recent-title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: white
+}
+.recent-title h4::after{
+    content: "";
+    background: black;
+    display: block;
+}
+.discount{
+    background-color: #c19065;
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    color: white;
+    position: absolute;
+    left: -4%;
+    top: -5%;   
+    z-index: 100;
+}
+.discount p{
+    text-align: center;
+    padding-top: 20px;
+}
+.bought {
+   background-color:  #c19065;
+   width: 100px;
+   height: 25px;
+   position: relative;
+   left: 235px;
+   top: -25px;
+}
+.bought p{
+    color: white;
+    text-align: center;
+}
+.card-button{
+    height: 55px;
+    background-color: #fdf1d6;
+} 

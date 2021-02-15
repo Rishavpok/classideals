@@ -1,0 +1,12 @@
+.nav-list{
+    background-color: #f7f6e7;
+   padding: 12px;
+}
+.nav-link-item{
+     color: black !important;
+     padding: 20px;  
+}
+.nav-link-item:hover{
+    color: brown !important;
+    text-decoration: none;
+}

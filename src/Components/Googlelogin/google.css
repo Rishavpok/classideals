@@ -1,0 +1,9 @@
+.btngoogle{
+    width: 350px !important;
+    height:40px !important;
+    border-radius: 4px;
+    color:white;
+    border:0px transparent;
+    text-align: center;
+    display: inline-block;
+}

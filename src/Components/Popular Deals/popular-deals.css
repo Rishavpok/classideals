@@ -1,0 +1,17 @@
+.popular-deals{
+    background-color: #e7e6e1;
+    padding-bottom: 30px;
+}
+.popular-title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.card-image{
+   height: 250px !important; 
+}
+.popular-text h4::after{
+    content: "";
+    background: black;
+    display: block;
+}

@@ -1,0 +1,35 @@
+.login-footer{
+    background-color:  #351f39;
+    padding: 2%;
+}
+.login-list li{
+    list-style: none;
+    text-decoration: none;
+    text-align: left;
+    color: rgb(241, 231, 231) !important;
+    font-size: 13px;   
+}
+.list-menu:hover{
+    text-decoration: none;
+}
+.list-title h5{
+    color: white;
+    padding-top: 50px;
+    font-size: 18px;
+}
+.contact{
+    padding-top:50px;
+}
+.contact h5{
+    color: white;
+}
+.contact p{
+    color: white;
+}
+.media li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    display: inline-block;
+    padding:10px
+}

@@ -1,0 +1,46 @@
+.best-deal{
+    background-image: url(https://cbazaar.s3.amazonaws.com/uploads/slider/a5d273ba38d4badb01c6c2412d17897c.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit: cover;
+    padding: 130px;
+    
+}
+
+.beautiful-furniture{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.s-title{
+   font-size: 15px;
+}
+.md-title{
+    /* margin-left: 80%; */
+    font-size: 17px;
+    padding-top: 15px; 
+}
+.best-deal-content{
+    float: right;
+    margin-top: -50px;
+}
+.more-section{
+    background-color: #c19065;
+    display: inline-block;
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+   
+}
+.more-section:hover{
+    background-color: tomato;
+}
+.more-btn{
+    color: white;
+    padding-top: 10px;
+}
+.more-btn:hover{
+    color: white;
+    text-decoration: none;
+    
+}
